@@ -2,51 +2,37 @@
 # MÉRÉSI JEGYZŐKÖNYV
 
 **A mérést végző neve:**  
-**A mérés tárgya:** 
-**A mérés száma:**  
-**A mérés dátuma:**   
+**A mérés tárgya:** T Ellenálláshálózat
+**A mérés száma:**  01
+**A mérés dátuma:** 2001.09.11.
 **A mérést vezette:** Sándor Péter  
 
 **Évfolyam:** 13. E  
 **Csoport:** GYAK 2  
-**Helyszín:**   
+**Helyszín:** V3 labor   
 
 ---
 
 ## 1. Mérés célja
-
+A T ellenállás-hálózat jellemzőinek meghatározása a megadott ellenállásértékek alapján.
 
 ---
 
 ## 2. Alkalmazott mérőeszközök és készülékek
 
 - NI myDAQ
+- R1, R3 = 220 Ohm
+- R2 = 950 Ohm
+- Breadboard
 ---
-
-### 3. **Mérési helyszín és környezet**
-- **Antenna magassága**: ...
-- **Környezet jellemzői**: ...
-- **Adó távolsága**: ...
-
----
-
-## 4. Antennák teljesítménye különböző frekvenciákon
-
-| Frekvencia (MHz) | Antenna          | Jelszint (dBm) | MER (dB) | Bitsebesség (Mbps) |
-| ---------------- | ---------------- | -------------- | -------- | ------------------ |
-| **...**      | ...        | ...          | ...     | ...          |
-|                  | ...      | ...          | ...     | ...          |
-|                  | ... | ...          | ...     | ...          |
-| **...**      | ...        | ...          | ...     | ...          |
-|                  | ...      | ...          | ...     | ...         |
-|                  | ... | ...          | ...     | ...          |
-| **...**      | ...        | ...          | ...     | ...          |
-|                  | ...      | ...          | ...     | ...          |
-|                  | ... | ...          | ...     | ...          |
 
 ---
 
-## 5. Mérési eredmények elemzése
+## 3. Számolás
+
+---
+
+## 4. Szimuláció
 Az adatok alapján az alábbi következtetéseket lehet levonni:
 
 - ...
@@ -54,15 +40,15 @@ Az adatok alapján az alábbi következtetéseket lehet levonni:
 - ...
 ---
 
-## 6. Konklúzió
+## 5. Konklúzió
 ...
 ---
 
-## 7. Mérési nehézségek és eltérések
+## 6. Mérési nehézségek és eltérések
 ...
 ---
 
-## 8. Grafikus ábrázolás
+## 7. Grafikus ábrázolás
 A jelszint és MER értékek vizuális ábrázolását az alábbi diagramok mutatják be:
 
 ![Jelszint és MER ábrázolás](...) 
