@@ -34,6 +34,7 @@ A T ellenállás-hálózat jellemzőinek meghatározása a megadott ellenállás
 
 ## 4. Szimuláció
 ![](https://github.com/krstf-szb/tavkozles/blob/main/jegyzokonyv/T-ellenallas-halozat/Kepek/szimulacio.png)
+
 Az adatok alapján az alábbi következtetéseket lehet levonni:
 
 - ...
