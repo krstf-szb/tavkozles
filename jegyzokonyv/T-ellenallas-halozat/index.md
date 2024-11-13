@@ -26,10 +26,10 @@ A T ellenállás-hálózat jellemzőinek meghatározása a megadott ellenállás
 - Breadboard
 ---
 
----
 
 ## 3. Számolás
-
+<img src="tavkozles/jegyzokonyv/T-ellenallas-halozat/Kepek
+/Képernyőkép 2024-11-13 140609.png"/>
 ---
 
 ## 4. Szimuláció
