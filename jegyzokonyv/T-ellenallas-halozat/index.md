@@ -28,8 +28,8 @@ A T ellenállás-hálózat jellemzőinek meghatározása a megadott ellenállás
 
 
 ## 3. Számolás
-<img src="[tavkozles/jegyzokonyv/T-ellenallas-halozat/Kepek
-/Képernyőkép 2024-11-13 140609.png](https://github.com/krstf-szb/tavkozles/blob/main/jegyzokonyv/T-ellenallas-halozat/Kepek/K%C3%A9perny%C5%91k%C3%A9p%202024-11-13%20140609.png)" width="500" height="200"/>
+<img src="[https://github.com/GyorgyPeter/tavkozles/blob/main/jegyzokonyv/T-ellenallas-halozat/kepek/K%C3%A9perny%C5%91k%C3%A9p%202024-11-13%20131745.png](https://github.com/krstf-szb/tavkozles/blob/main/jegyzokonyv/T-ellenallas-halozat/Kepek/keplet.png)" width="800" height="375">
+
 ---
 
 ## 4. Szimuláció
