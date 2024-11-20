@@ -7,7 +7,7 @@
 <br>
 **A mérés száma:**  01
 <br>
-**A mérés dátuma:** 2001.09.11.
+**A mérés dátuma:** 2024. 11. 20.
 <br>
 **A mérést vezette:** Sándor Péter
 <br>
@@ -42,6 +42,8 @@ A T ellenállás-hálózat jellemzőinek meghatározása a megadott ellenállás
   
 ![Képlet](https://github.com/krstf-szb/tavkozles/blob/main/jegyzokonyv/T-ellenallas-halozat/Kepek/keplet.png)
 
+*A képlethez a forrás:https://www.electronics-tutorials.ws/attenuators/t-pad-attenuator.html*
+
 **Számolás**:
 
 **R1,R2**:
@@ -54,12 +56,15 @@ A T ellenállás-hálózat jellemzőinek meghatározása a megadott ellenállás
 
 </details>
 
-*A képletekhez a forrás:https://www.electronics-tutorials.ws/attenuators/t-pad-attenuator.html*
-Z = 1,9953
+Csillapítás = 6dB
+
+Z = 680
+
+K = 1,9953
 
 $R1,2 = Z * (K - 1 / K + 1) = 680*(1,9953 - 1 / 1,9953 + 1) = 255,95533$
 
-$R3 = 2Z * (K / K^2 - 1) = 2 * 680 * (1,9953 / 1,9953^2 - 1)$
+$R3 = 2Z * (K / K^2 - 1) = 2 * 680 * (1,9953 / 1,9953^2 - 1) = 910,$
 
 ## 4. Szimuláció
 
@@ -74,12 +79,20 @@ Az adatok alapján az alábbi következtetéseket lehet levonni:
 - ...
 - ...
 
-## 5. Konstrukció
+## 5. Gyakorlatban
+
 <details>
 
 ![](https://github.com/krstf-szb/tavkozles/blob/main/jegyzokonyv/T-ellenallas-halozat/Kepek/setupmk2.jpg)
 
-![](https://github.com/GyorgyPeter/tavkozles/blob/main/jegyzokonyv/T-ellenallas-halozat/kepek/K%C3%A9perny%C5%91k%C3%A9p%202024-11-20%20112845.png)
+**Generátor**:
+
+![](https://github.com/GyorgyPeter/tavkozles/blob/main/jegyzokonyv/T-ellenallas-halozat/kepek/K%C3%A9perny%C5%91k%C3%A9p%202024-11-20%20131428.png)
+
+**Oscilloscope**:
+
+![](https://github.com/GyorgyPeter/tavkozles/blob/main/jegyzokonyv/T-ellenallas-halozat/kepek/K%C3%A9perny%C5%91k%C3%A9p%202024-11-20%20131409.png)
+
 </details>
 
 ## 6. Mérési nehézségek és eltérések
