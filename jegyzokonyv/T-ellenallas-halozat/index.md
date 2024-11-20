@@ -71,13 +71,8 @@ $R3 = 2Z * (K / K^2 - 1) = 2 * 680 * (1,9953 / 1,9953^2 - 1) = 910,23$
 <details>
   
 ![](https://github.com/GyorgyPeter/tavkozles/blob/main/jegyzokonyv/T-ellenallas-halozat/kepek/circuit-20241120-1216.png)
+
 </details>
-
-Az adatok alapján az alábbi következtetéseket lehet levonni:
-
-- ...
-- ...
-- ...
 
 ## 5. Gyakorlatban
 
@@ -94,21 +89,3 @@ Az adatok alapján az alábbi következtetéseket lehet levonni:
 ![](https://github.com/GyorgyPeter/tavkozles/blob/main/jegyzokonyv/T-ellenallas-halozat/kepek/K%C3%A9perny%C5%91k%C3%A9p%202024-11-20%20131409.png)
 
 </details>
-
-## 6. Mérési nehézségek és eltérések
-
-
-## 7. Grafikus ábrázolás
-
-
-## 8. Javaslatok
-
-
-
-
-
-
-
-**Aláírás:** ...
-
-**Dátum:** ...
