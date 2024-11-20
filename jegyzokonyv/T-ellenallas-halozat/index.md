@@ -51,9 +51,6 @@ Az adatok alapján az alábbi következtetéseket lehet levonni:
 ---
 
 ## 7. Grafikus ábrázolás
-A jelszint és MER értékek vizuális ábrázolását az alábbi diagramok mutatják be:
-
-![Jelszint és MER ábrázolás](...) 
 
 ---
 
