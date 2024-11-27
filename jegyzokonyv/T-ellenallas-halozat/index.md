@@ -1,5 +1,6 @@
-
 # MÉRÉSI JEGYZŐKÖNYV
+
+---
 
 **A mérést végző neve:** Szabó Kristóf
 <br>
@@ -16,6 +17,7 @@
 **Csoport:** GYAK 1  
 **Helyszín:** V3 labor   
 
+---
 
 ## 1. Mérés célja
 A T ellenállás-hálózat jellemzőinek meghatározása a megadott ellenállásértékek alapján.
@@ -27,13 +29,16 @@ A T ellenállás-hálózat jellemzőinek meghatározása a megadott ellenállás
   ![](https://github.com/GyorgyPeter/tavkozles/blob/main/jegyzokonyv/T-ellenallas-halozat/kepek/K%C3%A9perny%C5%91k%C3%A9p%202024-11-13%20133415.png)
 </details>
 
+---
+
 ## 2. Alkalmazott mérőeszközök és készülékek
 
 - NI myDAQ
-- R1, R3 = 220 Ohm
-- R2 = 950 Ohm
+- R1, R3 = 220 $\Omega$
+- R2 = 950 $\Omega$
 - Breadboard
 
+---
 
 ## 3. Számolás
 <details>
@@ -62,9 +67,11 @@ Z = 680
 
 K = 1,9953
 
-$R1,2 = Z * (K - 1 / K + 1) = 680*(1,9953 - 1 / 1,9953 + 1) = 255,96$
+$R1,2 = Z \times ( \frac {K - 1} {K + 1} ) = 680 \times ( \frac {1,9953 - 1}  {1,9953 + 1} ) = 255,96$
 
-$R3 = 2Z * (K / K^2 - 1) = 2 * 680 * (1,9953 / 1,9953^2 - 1) = 910,23$
+$R3 = 2Z \times (\frac {K} {K^2 - 1}) = 2 \times 680 \times (\frac {1,9953} {1,9953^2 - 1}) = 910,23$
+
+---
 
 ## 4. Szimuláció
 
@@ -73,6 +80,8 @@ $R3 = 2Z * (K / K^2 - 1) = 2 * 680 * (1,9953 / 1,9953^2 - 1) = 910,23$
 ![](https://github.com/GyorgyPeter/tavkozles/blob/main/jegyzokonyv/T-ellenallas-halozat/kepek/circuit-20241120-1216.png)
 
 </details>
+
+---
 
 ## 5. Gyakorlatban
 
