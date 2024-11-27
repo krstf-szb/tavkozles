@@ -24,10 +24,8 @@
 ## 1. Mérés célja
 A $\displaystyle \pi$ ellenállás-hálózat jellemzőinek meghatározása a megadott ellenállásértékek alapján.
 
-
-  
-### Kapcsolási rajz:
 <details>
+  <summary> <strong>Kapcsolási rajz:</strong></summary>
   <p align="center">
     
   <img width="60%" height="60%" src="https://github.com/user-attachments/assets/dbae2317-3cc8-4935-8422-341aeec8bbc8">
@@ -48,12 +46,15 @@ A $\displaystyle \pi$ ellenállás-hálózat jellemzőinek meghatározása a meg
 - Breadboard
 <details>
   
-  *A mérés során használt ellenállások értéke eltér a számunkra el*
+  *A mérés során használt ellenállások értéke eltér a számunkra elérhető ellenállásoktól*
 </details>
+
 ---
 
 ### 3. Számolás
 <details>
+  
+<summary><strong>Képlet:</strong></summary>
 
   <p align="center">
     
@@ -79,6 +80,9 @@ $R2 = Z \times (\frac {K^2-1}{2K}) = 1,5k \times (\frac {1,9953^2-1}{2 \times 1,
 
 ## 4. Szimuláció
 <details>
+  
+<summary></summary>
+  
    <p align="center">
     
    <img width="70%" height="70%" src="https://github.com/user-attachments/assets/5d6d1a31-afb6-4ea2-9f66-ab2c48cfcbb0">
@@ -91,6 +95,8 @@ $R2 = Z \times (\frac {K^2-1}{2K}) = 1,5k \times (\frac {1,9953^2-1}{2 \times 1,
 
 ## 5. Gyakorlatban
 <details>
+  
+  <summary></summary>
   
 **Összerakva:**
 
