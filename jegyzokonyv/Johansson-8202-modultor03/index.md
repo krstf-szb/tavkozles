@@ -36,14 +36,14 @@ A hallgatók ismerjék meg a különböző antennák jellemzőit, és mérjék a
 
 ## 2. Alkalmazott mérőeszközök és készülékek:
 
-| Műszer neve                         | Típus                   | Gyártási szám        | Mérési tartomány | Mérési határok     |
-|-------------------------------------|-------------------------|----------------------|------------------|--------------------|
-| Philips Digital TV antenna          | SDV5228/12              | QH1A1520018591       | UHF MHz          |                    |
-| DEVISER TV Signal Spectrum analyzer | S7200                   | 1002162024           | UHF MHz, dBuV    |                    |
-| Johansson DVB-T modulator           | 8202                    | 2341010237801        | UHF MHz, dBuV    |                    |
-| Iskra Logper antenna                | P-20                    | 3831002931507        | UHF MHz          |                    |
-| Iskra Logper antenna                | P-2845-F                | 383002958948         | UHF MHz          |                    |
-| IKUSI FLASHD antenna                | HDTF-C48                | —                    | UHF MHz          |                    |
+| Műszer neve                         | Típus                   | Gyártási szám        | Mérési tartomány |
+|-------------------------------------|-------------------------|----------------------|------------------|
+| Philips Digital TV antenna          | SDV5228/12              | QH1A1520018591       | UHF MHz          |
+| DEVISER TV Signal Spectrum analyzer | S7200                   | 1002162024           | UHF MHz, dBuV    |
+| Johansson DVB-T modulator           | 8202                    | 2341010237801        | UHF MHz, dBuV    |
+| Iskra Logper antenna                | P-20                    | 3831002931507        | UHF MHz          |
+| Iskra Logper antenna                | P-2845-F                | 383002958948         | UHF MHz          |
+| IKUSI FLASHD antenna                | HDTF-C48                | —                    | UHF MHz          |
 
 ---
 
