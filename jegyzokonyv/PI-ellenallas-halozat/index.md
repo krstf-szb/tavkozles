@@ -1,6 +1,8 @@
 
 # MÉRÉSI JEGYZŐKÖNYV
 
+---
+
 **A mérést végző neve:** Szabó Kristóf
 
 **A mérés tárgya:**  $\displaystyle \pi$ Ellenállás-hálózat
