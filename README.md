@@ -1,6 +1,8 @@
 
 Kész:
 
--Pi-pad Attenuator
+-Pi ellenálláshálózat
 
--T-pad Attenuator
+-T ellenálláshálózak
+
+-Johansson 8202 modulátor 03
