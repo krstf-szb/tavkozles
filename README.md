@@ -1,5 +1,5 @@
 
-Kész:
+"Kész":
 
 -Pi ellenálláshálózat
 
