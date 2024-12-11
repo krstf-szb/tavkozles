@@ -50,17 +50,9 @@ A T ellenállás-hálózat jellemzőinek meghatározása a megadott ellenállás
 
 *A képlethez a forrás:https://www.electronics-tutorials.ws/attenuators/t-pad-attenuator.html*
 
-**Számolás**:
-
-**R1,R2**:
-
-![](https://github.com/GyorgyPeter/tavkozles/blob/main/jegyzokonyv/T-ellenallas-halozat/kepek/IMG_20241120_123158.jpg)
-
-**R3**:
-
-![](https://github.com/GyorgyPeter/tavkozles/blob/main/jegyzokonyv/T-ellenallas-halozat/kepek/IMG_20241113_133023.jpg)
-
 </details>
+
+**Számolás**:
 
 Csillapítás = 6dB
 
