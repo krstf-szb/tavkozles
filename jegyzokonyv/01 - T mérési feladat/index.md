@@ -25,8 +25,9 @@ A T ellenállás-hálózat jellemzőinek meghatározása a megadott ellenállás
 <details>
   
  **Kapcsolási rajz**:
-  
-  ![](https://github.com/GyorgyPeter/tavkozles/blob/main/jegyzokonyv/T-ellenallas-halozat/kepek/K%C3%A9perny%C5%91k%C3%A9p%202024-11-13%20133415.png)
+ 
+  ![Képernyőkép 2024-11-13 133415](https://github.com/user-attachments/assets/4193d6d4-7f32-417f-bade-8a58ad50b0dc)
+
 </details>
 
 ---
@@ -70,7 +71,8 @@ $R3 = 2Z \times (\frac {K} {K^2 - 1}) = 2 \times 680 \times (\frac {1,9953} {1,9
 
 <details>
   
-![](https://github.com/GyorgyPeter/tavkozles/blob/main/jegyzokonyv/T-ellenallas-halozat/kepek/circuit-20241120-1216.png)
+![circuit-20241120-1216](https://github.com/user-attachments/assets/c8c9e154-6e29-4686-a3cc-5489c8500af5)
+
 
 </details>
 
@@ -79,15 +81,18 @@ $R3 = 2Z \times (\frac {K} {K^2 - 1}) = 2 \times 680 \times (\frac {1,9953} {1,9
 ## 5. Gyakorlatban
 
 <details>
+  
+![setupmk2](https://github.com/user-attachments/assets/30c2160b-ba1e-411e-8010-03c3fd858c8a)
 
-![](https://github.com/krstf-szb/tavkozles/blob/main/jegyzokonyv/T-ellenallas-halozat/Kepek/setupmk2.jpg)
 
 **Generátor**:
 
-![](https://github.com/GyorgyPeter/tavkozles/blob/main/jegyzokonyv/T-ellenallas-halozat/kepek/K%C3%A9perny%C5%91k%C3%A9p%202024-11-20%20131428.png)
+![Képernyőkép 2024-11-20 131428](https://github.com/user-attachments/assets/bb1bb91a-1fcb-4dfb-a92c-d9a050764c7a)
+
 
 **Oscilloscope**:
 
-![](https://github.com/GyorgyPeter/tavkozles/blob/main/jegyzokonyv/T-ellenallas-halozat/kepek/K%C3%A9perny%C5%91k%C3%A9p%202024-11-20%20131409.png)
+![Képernyőkép 2024-11-20 131409](https://github.com/user-attachments/assets/7363f3cb-06ef-4f76-8b5d-aca59716d4f3)
+
 
 </details>
