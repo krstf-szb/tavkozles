@@ -46,7 +46,7 @@ A $\displaystyle \pi$ ellenállás-hálózat jellemzőinek meghatározása a meg
 - Breadboard
 <details>
   
-  *A mérés során használt ellenállások értéke eltér a számunkra elérhető ellenállásoktól*
+  *A mérés során használt ellenállások értéke eltér a kiszámolt ellenállásoktól*
 </details>
 
 ---
