@@ -45,7 +45,8 @@ A T ellenállás-hálózat jellemzőinek meghatározása a megadott ellenállás
   
 **Képlet**:
   
-![Képlet](https://github.com/krstf-szb/tavkozles/blob/main/jegyzokonyv/T-ellenallas-halozat/Kepek/keplet.png)
+![keplet](https://github.com/user-attachments/assets/f6ac521b-6188-43b1-b4ae-3bfeab951d5c)
+
 
 *A képlethez a forrás:https://www.electronics-tutorials.ws/attenuators/t-pad-attenuator.html*
 
