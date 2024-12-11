@@ -81,7 +81,7 @@ $R2 = Z \times (\frac {K^2-1}{2K}) = 1,5k \times (\frac {1,9953^2-1}{2 \times 1,
 ## 4. Szimuláció
 <details>
   
-<summary></summary>
+<summary>Falstad szimuláció</summary>
   
    <p align="center">
     
@@ -96,7 +96,7 @@ $R2 = Z \times (\frac {K^2-1}{2K}) = 1,5k \times (\frac {1,9953^2-1}{2 \times 1,
 ## 5. Gyakorlatban
 <details>
   
-  <summary></summary>
+  <summary>MyDAQ-on összerakva</summary>
   
 **Összerakva:**
 
