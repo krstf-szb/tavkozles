@@ -23,7 +23,7 @@
 ## 1. A mérés menete és célja:
 
 **Cél:**  
-A tanulók megismerjék a Johansson 8202 DVB-T modulátor működését, konfigurációs lehetőségeit, és méréseket végezzenek a METEK HD spektrum/jelszint analizátorral. A mérési eredményeket rögzítik jegyzőkönyv formájában.
+A Johansson 8202 DVB-T modulátor működésének , konfigurációs lehetőségeinek megismerése, és mérések végzése a METEK HD spektrum/jelszint analizátorral.
 
 **Menete:**
 1. Johansson 8202 DVB-T modulátor beállítása
