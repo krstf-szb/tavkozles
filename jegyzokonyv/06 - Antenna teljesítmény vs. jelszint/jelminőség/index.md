@@ -23,7 +23,7 @@
 ## 1. A mérés menete és célja:
 
 **Cél:**  
-A Johansson 8202 DVB-T modulátor működésének , konfigurációs lehetőségeinek megismerése, és mérések végzése a METEK HD spektrum/jelszint analizátorral.
+A különböző antennák jellemzőinek megismerése, és a Johansson 8202 DVB-T modulátorral sugárzott DVB-T jel minőségének mérése. Az ISKRA P2845, ISKRA P20 és IKUSI FLASHD C48 antennákat használva a jelminőség és jelszint értékek változásának mérése különböző körülmények között.
 
 **Menete:**
 1. Johansson 8202 DVB-T modulátor beállítása
