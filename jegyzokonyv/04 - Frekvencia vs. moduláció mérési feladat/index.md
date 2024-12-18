@@ -1,20 +1,27 @@
 
 # MÉRÉSI JEGYZŐKÖNYV
 
-**A mérést végző neve:**  
-**A mérés tárgya:** 
-**A mérés száma:**  
-**A mérés dátuma:**   
+**A mérést végző neve:** Szabó Kristóf
+
+**A mérés tárgya:** A különböző frekvenciák és modulációk miként befolyásolják a jelminőséget.
+
+**A mérés száma:**  06
+
+**A mérés dátuma:** 2024. 12. 18 
+
 **A mérést vezette:** Sándor Péter  
 
 **Évfolyam:** 13. E  
+
 **Csoport:** GYAK 2  
-**Helyszín:**   
+
+**Helyszín:** V3 Labor 
 
 ---
 
 ## 1. Mérés célja
 
+A Johansson 8202 modulátor működésének, konfigurációs lehetőségeinek megismerése, és mérések végzése a METEK HDD spektrum/jelszint analizátorral.
 
 ---
 
@@ -22,33 +29,28 @@
 
 | Műszer neve                         | Típus       | Gyártási szám |
 | ----------------------------------- | ----------- | ------------- |
-| ...  | ...   | ...          |
-| ...                             | ...       | ...    |
-| ...                             | ...       | ...    |
-| ...                 | ...       | ...           |
+| METEK                               | HDD         | 240003        |      
+| Johansson modulator                 | 8202        | 2341010237801 |
 
 ---
-
-### 3. **Mérési helyszín és környezet**
-- **Antenna magassága**: ...
-- **Környezet jellemzői**: ...
-- **Adó távolsága**: ...
-
+## 3. Mérés menete
+1. Johansson 8202 modulátor beállítása hardveresen
+2. DVB-C jel mérése és értékelése
+3. Jegyzőkönyv készítés
 ---
 
-## 4. Antennák teljesítménye különböző frekvenciákon
+## 4. 
 
-| Frekvencia (MHz) | Antenna          | Jelszint (dBm) | MER (dB) | Bitsebesség (Mbps) |
-| ---------------- | ---------------- | -------------- | -------- | ------------------ |
-| **...**      | ...        | ...          | ...     | ...          |
-|                  | ...      | ...          | ...     | ...          |
-|                  | ... | ...          | ...     | ...          |
-| **...**      | ...        | ...          | ...     | ...          |
-|                  | ...      | ...          | ...     | ...         |
-|                  | ... | ...          | ...     | ...          |
-| **...**      | ...        | ...          | ...     | ...          |
-|                  | ...      | ...          | ...     | ...          |
-|                  | ... | ...          | ...     | ...          |
+| Mérés száma | Frekvencia(MHz) | Moduláció típusa | Jelszint (dBm) | Sávszélesség(MHz) | MER (dB) | Bitsebesség (Mbps) |
+| ------------| --------------- | ---------------- | -------------- | ----------------- |--------- | ------------------ |
+| 01 | 201 | 16QAM | -28 | 7 | 42.2 | 14.3 |
+| 02 | ...      | ...          | ...     | ...          |
+| 03 | ... | ...          | ...     | ...          |
+| 04 | ...        | ...          | ...     | ...          |
+| 05 | ...      | ...          | ...     | ...         |
+| 06 | ... | ...          | ...     | ...          |
+| 07 | ...        | ...          | ...     | ...          |
+| 08 | ...      | ...          | ...     | ...          |
 
 ---
 
