@@ -42,7 +42,7 @@ Tranzisztor működésének vizsgálata a bemeneti feszültség változtatásáv
   
   R2 = 1.489k $\Omega$
   
-  $\Beta$  = 0,87
+  $\beta$ = 87
 
 ---
 
