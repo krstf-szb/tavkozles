@@ -17,13 +17,14 @@
 
 ---
 
-Béta: 087
-R1: 1,489
-R2: 220
-
 ## 1. Mérés célja
 
 Tranzisztor működésének vizsgálata a bemeneti feszültség változtatásával
+
+### Kapcsolási rajz
+
+![circuit-20250108-1302](https://github.com/user-attachments/assets/ca2c6a63-7281-4e96-9e3a-a007e45bdbfa)
+
 
 ---
 
@@ -36,9 +37,18 @@ Tranzisztor működésének vizsgálata a bemeneti feszültség változtatásáv
 
 ---
 
+## 3. Alkatrész adatok
+  R1 = 220 $\Omega$
+  
+  R2 = 1.489k $\Omega$
+  
+  Tranzisztor  $\Beta$  = 0,87
+
 ---
 
 ## 4. Mért vs Szimulált eredmények
+
+
 
 | Ube [V] | Urc [V] | Ic [A]  | | Ube [V] | Urc [V]| Ic [A]|
 | ------- | ------- | ------- |-| ------- | ------ | ------ |
@@ -56,43 +66,20 @@ Tranzisztor működésének vizsgálata a bemeneti feszültség változtatásáv
 |   1,8   |   2,28  |  10,36m | |   1,8   |  3,098 |  14,1m |
 |    2    |   2,29  |  10,41m | |    2    |   3,1  |  14,1m |
 
+<details>
+<summary>Szimuláció link</summary>
+
+  https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWcMBsBmALAJhQdgWgJwAcYKCFIGaIWICk9ApgLRhgBQA7lLQirzSQM4DgHNBwwVkayOAFxAsMxWhllqNEGAmIpCCfCjC40KFeyjQUNhCcJ5sWIVlXFcIACZMAZgEMAVwAbeQ4AJyUVTSUHaMYwFUIOMjp4lA0sLBE6b39g+RYgpk9wXllYTgA3JXY6IRE2MDosjUZ1WjKrBG4appB6yRFIHrStV1EI+PHGYgyZDgAlXlneKI12pFboboAHKjc21SbVGi14c56olZm5Hijj3gfhnhZYlt7m9qwOIA
+  
+</details>
 
 ---
 
 ## 5. Mérési eredmények elemzése
+
 Az adatok alapján az alábbi következtetéseket lehet levonni:
 
-- ...
-- ...
-- ...
----
-
-## 6. Konklúzió
-...
----
-
-## 7. Mérési nehézségek és eltérések
-...
----
-
-## 8. Grafikus ábrázolás
-A jelszint és MER értékek vizuális ábrázolását az alábbi diagramok mutatják be:
-
-![Jelszint és MER ábrázolás](...) 
+- 1V feszültség felett minimális változások vehetők észre az Rc ellenállást mérve
+- A mért és a szimulált áramkör között jelentős eltérések vannak
 
 ---
-
-## 9. Javaslatok
-...
----
-
-
-
-</details>
-
-
-<br>
-
-**Aláírás:** ...
-
-**Dátum:** ...
