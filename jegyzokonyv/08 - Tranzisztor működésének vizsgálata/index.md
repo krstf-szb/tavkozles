@@ -42,20 +42,18 @@ Tranzisztor működésének vizsgálata a bemeneti feszültség változtatásáv
   
   R2 = 1.489k $\Omega$
   
-  Tranzisztor  $\Beta$  = 0,87
+  $\Beta$  = 0,87
 
 ---
 
 ## 4. Mért vs Szimulált eredmények
 
-
-
 | Ube [V] | Urc [V] | Ic [A]  | | Ube [V] | Urc [V]| Ic [A]|
 | ------- | ------- | ------- |-| ------- | ------ | ------ |
 |    0    |   0,0   |    0    | |    0    |   0    |   0    |
 |   0,4   |   0,1m  |   450n  | |   0,4   | 114,45u|  520n  |
-|   0,5   |   3,3m  |  0,015m | |   0,5   |  5,38m |  24,5u |
-|   0,6   |  118,7m |  0,539m | |   0,6   | 160,94m| 731,6u |
+|   0,5   |   3,3m  |   15u   | |   0,5   |  5,38m |  24,5u |
+|   0,6   |  118,7m |   539u  | |   0,6   | 160,94m| 731,6u |
 |   0,7   |   906m  |   4,1m  | |   0,7   | 881,1m |   4m   |
 |   0,8   |   2,06  |   9,36m | |   0,8   |  1,9   |  8,7m  |
 |   0,9   |   2,38  |  10,81m | |   0,9   |  2,97  |  13,5m |
@@ -83,3 +81,15 @@ Az adatok alapján az alábbi következtetéseket lehet levonni:
 - A mért és a szimulált áramkör között jelentős eltérések vannak
 
 ---
+## 6. Grafikon
+  <details>
+    <summary>Mért eredmények grafikon:</summary>
+    
+![Névtelen terv](https://github.com/user-attachments/assets/c1d97db0-96c2-4d86-a29e-64e72a13c595)
+  </details>
+
+  <details>
+    <summary>Szimulált eredmények grafikon:</summary>
+    
+![Névtelen terv (1)](https://github.com/user-attachments/assets/6f1d00e0-ce2a-467f-97b3-5efd7d8e7570)
+  </details>
