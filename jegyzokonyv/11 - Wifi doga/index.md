@@ -173,8 +173,10 @@ A jelszó:abcd12341.**
 <summary>Portok/Hálózati kapcsolatok</summary>
 
 **Használt portok listája**
-    <details>
-    C:\WINDOWS\system32>netstat -a
+
+<details>
+    
+C:\WINDOWS\system32>netstat -a
 
 Active Connections
 
@@ -379,16 +381,12 @@ Active Connections
   UDP    [fe80::cf02:9cb2:81bb:f03a%16]:2177  *:*
   
   UDP    [fe80::cf02:9cb2:81bb:f03a%16]:49553  *:*
-  
-    </details>
 
----
+</details>
 
 **Hálózati kapcsolatok**
 
 ![halozatikapcs](https://github.com/user-attachments/assets/3817051c-a162-40d9-b268-ee46980c6567)
-
-</details>
 
 ---
 
@@ -435,6 +433,8 @@ Active Connections
 **FQDN megjelenítése**
 
 ![netstat-f](https://github.com/user-attachments/assets/57e7caac-fc80-4326-9e8e-63918e55b57e)
+
+</details>
 
 </details>
 
