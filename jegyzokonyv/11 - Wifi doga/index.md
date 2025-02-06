@@ -132,7 +132,7 @@ A jelszó:abcd12341.**
 
 <details>
   
-<summary>Laptop routing tábla</summary>
+<summary>Routing tábla</summary>
 
 **IPv4**
 
