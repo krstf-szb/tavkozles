@@ -70,7 +70,7 @@ Amplitúdómoduláció előállítása a GRF-1300A segítségével, majd spektru
 
 | Vivőrekvencia | Vpp    | Jelszint (dBm) | Modulációs index |
 | ------------- | ------ | -------------- | ---------------- |
-| 900 MHz       | 1.23 V | -32.1          | 1                |
+| 900 MHz       | 1.23 V | -32.1          | 0.63             |
 
 ![SCR01](https://github.com/user-attachments/assets/d84ff18c-ddfe-47a8-a7ca-5684c9f264a0) ![TA02](https://github.com/user-attachments/assets/d0c222b9-0bab-44cf-becd-13b3ca0f390f)
 
