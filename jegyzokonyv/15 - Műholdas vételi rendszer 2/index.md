@@ -21,7 +21,7 @@ __
 
 ## 1. Mérés célja
 
-Műholdas vételi rendszer kiépítése, set-top boxal való összekötése, mérése.
+Műholdas vételi rendszer kiépítése, a FTA Galaxy 4 csatorna fogása, a vételi rendszer set-top boxal való összekötése, mérése.
 
 ---
 
