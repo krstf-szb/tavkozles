@@ -23,6 +23,8 @@ __
 
 Műholdas vételi rendszer kiépítése, a FTA Galaxy 4 csatorna fogása, a vételi rendszer set-top boxal való összekötése, mérése.
 
+![1741783279178](https://github.com/user-attachments/assets/e280d992-059a-496e-ba8a-d90bb5f60818)
+
 ---
 
 ## 2. Alkalmazott mérőeszközök és készülékek
