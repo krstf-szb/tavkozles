@@ -88,9 +88,27 @@ DVB-T vételirendszer kiépítése, set-top boxxal való összedugása, mérése
 
 ---
 
-## 5. Mérési eredmények elemzése:
+## 5. Diagrammok
 
-  A jelosztó beépítése után, 6dB tervezett csillapítás helyett, drasztikusan kevesebb volt a csillapítás értéke.
+Csillapítás:
+
+![image](https://github.com/user-attachments/assets/679739a1-3b3d-42a2-adde-7d10af87d923)
+
+
+Noise Margin:
+
+![image](https://github.com/user-attachments/assets/eb362a2a-7fff-497f-b323-666869ff1935)
+
+
+MER érték:
+
+![image](https://github.com/user-attachments/assets/a2489659-5470-4fff-b79a-1d5a0ea96c58)
+
+
+---
+## 6. Mérési eredmények elemzése:
+
+  A jelosztó beépítése után, 6dB tervezett csillapítás helyett, drasztikusan kevesebb volt helyenként a csillapítás értéke.
 
  
 
