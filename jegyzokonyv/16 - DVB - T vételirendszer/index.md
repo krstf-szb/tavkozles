@@ -5,9 +5,13 @@
 # MÉRÉSI JEGYZŐKÖNYV
 
 **A mérést végző neve:** Szabó Kristóf
+
 **A mérés tárgya:** DVB-T vételirendszer
+
 **A mérés száma:** 16
+
 **A mérés dátuma:** 2025.03.19.
+
 **A mérést vezette:** Sándor Péter  
 
 **Évfolyam:** 13. E  
