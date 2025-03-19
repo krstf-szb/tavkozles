@@ -52,60 +52,41 @@ DVB-T vételirendszer kiépítése, set-top boxxal való összedugása, mérése
 | A           | 666              | 5        | 56,0            | 4,1          | 20,8     | 0,00          | 64QAM     |
 | E           | 690              | 4,1      | 57,2            | 10,7         | 26,9     | 0,00          | 64QAM     |
 
-![its_snapshot_0003](https://github.com/user-attachments/assets/68929c26-6c12-42b9-ab86-3924ddd9b4d8) ![its_snapshot_0002](https://github.com/user-attachments/assets/1617de02-2fe8-49c4-bb19-d0f04b2d37c2) ![its_snapshot_0001](https://github.com/user-attachments/assets/4b23f190-1448-447a-b3b0-ba2087706a96)
 
+![its_snapshot_0001](https://github.com/user-attachments/assets/4b23f190-1448-447a-b3b0-ba2087706a96)
+![its_snapshot_0002](https://github.com/user-attachments/assets/1617de02-2fe8-49c4-bb19-d0f04b2d37c2)
+![its_snapshot_0003](https://github.com/user-attachments/assets/68929c26-6c12-42b9-ab86-3924ddd9b4d8)
 
+![its_snapshot_0004](https://github.com/user-attachments/assets/c673d97a-8320-4af7-9523-6dd034ffe464)
+![its_snapshot_0005](https://github.com/user-attachments/assets/ec8eef01-e660-4d76-b140-554314ae0d26)
+![its_snapshot_0006](https://github.com/user-attachments/assets/0d9a5d0b-6d31-4221-bc6f-377489ac119b)
 
-
+---
 
 ### Jelosztóval:
 
 | Multiplex  | Jelszint (dBuV) | Noise Margin | MER (dB) | Packet errors | Csillapítás (dB) |
 |------------|-----------------|--------------|----------|---------------|------------------|
-| C          | 60,0            | 8,7          | 24,8     | 0,00          | 5,40             |
-| D          | 55,5            | 8,1          | 24,3     | 0,00          | 6,30             |
-| B          | 55,3            | 12,8         | 29,8     | 0,00          | 4,70             |
-| Miskolc TV | 42,2            | 15,4         | 19,1     | 0,00          | 5,20             |
-| A          | 50,5            | 7,4          | 24,0     | 0,00          | 7,20             |
-| E          | 52,1            | 7,2          | 23,4     | 0,00          | 9,20             |
+| C          | 60,0            | 8,7          | 24,8     | 0,00          | 0,5              |
+| D          | 55,5            | 8,1          | 24,3     | 0,00          | 2,7              |
+| B          | 55,3            | 12,8         | 29,8     | 0,00          | 2,4              |
+| Miskolc TV | 42,2            | 15,4         | 19,1     | 0,00          | 5                |
+| A          | 50,5            | 7,4          | 24,0     | 0,00          | 5,5              |
+| E          | 52,1            | 7,2          | 23,4     | 0,00          | 5,1              |
 
+![its_snapshot_0013](https://github.com/user-attachments/assets/9020cda1-315f-45ba-b141-7c7918485cc7)
+![its_snapshot_0014](https://github.com/user-attachments/assets/96ab3cc6-8b88-40b6-810f-199e0d729f57)
+![its_snapshot_0015](https://github.com/user-attachments/assets/46f630b4-df50-4b41-bdc1-b774f9b520e1)
 
----
-
-## 5. Mérési eredmények elemzése
-Az adatok alapján az alábbi következtetéseket lehet levonni:
-
-- ...
-- ...
-- ...
----
-
-## 6. Konklúzió
-...
----
-
-## 7. Mérési nehézségek és eltérések
-...
----
-
-## 8. Grafikus ábrázolás
-A jelszint és MER értékek vizuális ábrázolását az alábbi diagramok mutatják be:
-
-![Jelszint és MER ábrázolás](...) 
+![its_snapshot_0016](https://github.com/user-attachments/assets/b4608f99-1d5a-41bd-92f8-358fb2592f39)
+![its_snapshot_0017](https://github.com/user-attachments/assets/0a946b11-91a4-4e0c-b5ba-b28ceb1e2a8a)
+![its_snapshot_0018](https://github.com/user-attachments/assets/0d6f26a9-0236-47bf-9eae-ec56299ce842)
 
 ---
 
-## 9. Javaslatok
-...
----
+## 5. Mérési eredmények elemzése:
 
+  A jelosztó beépítése után, 6dB tervezett csillapítás helyett, drasztikusan kevesebb volt a csillapítás értéke.
 
+ 
 
-</details>
-
-
-<br>
-
-**Aláírás:** ...
-
-**Dátum:** ...
